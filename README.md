@@ -2,5 +2,5 @@
 
 👨🏻‍🎓 Estou cursando o 3° ano de Ciências da Computação com previsão de Término para 2023.
 
-🖥️ Tenho projetos realizados utilizando HTML, CSS E JAVASCRIPT.Neste momento me aventurando na Linguagem PYTHON
+🖥️ Tenho projetos realizados utilizando HTML, CSS E JAVASCRIPT. Neste momento estou me aventurando na linguagem PYTHON  
  
