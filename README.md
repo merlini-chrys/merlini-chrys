@@ -4,4 +4,6 @@
 
 🖥️ Tenho projetos realizados utilizando HTML, CSS E JAVASCRIPT.
 
+Neste momento me aventurando na Linguagem Python
+
  
